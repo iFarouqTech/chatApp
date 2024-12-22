@@ -1,5 +1,5 @@
 <?php
-	include "incs/preAuthHeader.php";
+	include "incs/header.php";
 ?>
 
 <body>
